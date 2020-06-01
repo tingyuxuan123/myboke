@@ -1,0 +1,15 @@
+	code{
+		display: block;
+				background-color: #1F2224;
+				color: #FFFFFF;
+				line-height: 20px;
+				
+			}
+			
+	blockquote{
+			border-left: 4px solid #bce6f0;
+			background-color: #f2f7fb;
+			padding: 5px;
+			box-sizing: border-box;
+			margin: 10px 5px;
+			}
